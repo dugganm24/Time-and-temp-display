@@ -1,14 +1,7 @@
 
-/************** ECE2049 DEMO CODE ******************/
-/**************  13 March 2019   ******************/
-/***************************************************/
 #include <msp430.h>
 
-/* Peripherals.c and .h are where the functions that implement
- * the LEDs and keypad, etc are. It is often useful to organize
- * your code by putting like functions together in files.
- * You include the header associated with that file(s)
- * into the main file of your project. */
+
 #include "peripherals.h"
 #include <stdlib.h>
 
